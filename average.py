@@ -5,4 +5,4 @@ num3 = float(input())
 num4 = float(input())
 num5 = float(input())
 num_avg = (num1 + num2 + num3 + num4 + num5)/5  # creates average into a variable
-print("The average of those number is:\n",num_avg)  # prints str. with output on new line
+print("The average of those numbers is:\n",num_avg)  # prints str. with output on new line
